@@ -1,7 +1,7 @@
 name: beakerx
-#channels:
-#  - conda-forge
+channels:
+  - conda-forge
 dependencies:
-#  - ipywidgets
+  - ipywidgets
   - beakerx
 
